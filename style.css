@@ -51,7 +51,7 @@ main{
     height: 100%;
     padding-left: 165px;
     padding-right: 220px;
-    background-image: url(images/bg-pattern-desktop.svg);
+    background-image: url(bg-pattern-desktop.svg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -173,7 +173,7 @@ label{
 .photo{
     min-width: 610px;
     min-height: 800px;
-    background-image: url(images/hero-desktop.jpg);
+    background-image: url(hero-desktop.jpg);
     background-size: cover;
 }
 
@@ -197,7 +197,7 @@ label{
     }
 
     .photo{
-        background-image: url(images/hero-mobile.jpg);
+        background-image: url(hero-mobile.jpg);
         min-width: 375px;
         min-height: 250px;
         background-size: contain;
